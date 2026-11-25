@@ -1,0 +1,12 @@
+@font-face {
+    font-family: title;
+    src: url("./Caveat-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: base;
+    src: url("./ShantellSans-VariableFont_BNCE\,INFM\,SPAC\,wght.ttf");
+}
+
+$title: "title", sans-serif;
+$base: "base", sans-serif;

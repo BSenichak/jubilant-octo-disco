@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Footer extends Component {
   render() {
     return (
-      <div>Footer</div>
+      <footer>&copy; Robocode {new Date().getFullYear() + 1}</footer>
     )
   }
 }
